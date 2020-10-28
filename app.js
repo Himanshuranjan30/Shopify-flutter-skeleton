@@ -19,5 +19,5 @@ mongoose.connect('mongodb+srv://himu:himu@cluster0.qkmvt.mongodb.net/test?retryW
 
 app.listen(5000);
 //Port No: 5000
-//Port Connected
+//Port is connected.
 //use nodemon to get a live non-ending server.
